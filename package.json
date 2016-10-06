@@ -1,6 +1,6 @@
 {
   "name": "node-stats-lite",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Module for creating an api which provides information about the running node process",
   "main": "index.js",
   "scripts": {
