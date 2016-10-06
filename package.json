@@ -1,0 +1,14 @@
+{
+  "name": "node-stats-lite",
+  "version": "1.0.8",
+  "description": "Module for creating an api which provides information about the running node process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jyot",
+  "license": "ISC",
+  "dependencies": {
+    "process-cpu-utilization": "^1.0.2"
+  }
+}
