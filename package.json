@@ -1,15 +1,15 @@
 {
   "name": "node-stats-lite",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Module for creating an api which provides information about the running node process",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jyot",
-  "repository": { 
-  	"type" : "git", 
-  	"url" : "https://github.com/npm/npm.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
   },
   "license": "ISC",
   "dependencies": {
