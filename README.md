@@ -1,9 +1,13 @@
+# Node Stats Lite
+[![NPM](https://nodei.co/npm/node-stats-lite.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node-stats-lite/)
+
 Include the module in you project by passing the instance of your express app  
 ```var stats = require('node-stats-lite')(app)```
 
 Then making a GET call to `/monitor` url path will provide all the stats.
 
 It provides the following stats - 
+
 1. Node.js version running
 2. Memory used by this Node service (in bytes)
 3. Memory used by this Node service (%)
