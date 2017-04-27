@@ -9,7 +9,7 @@
   "author": "Jyot",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jyotman94/node-stats-lite"
+    "url": "https://github.com/jyotman/node-stats-lite"
   },
   "license": "ISC",
   "dependencies": {
