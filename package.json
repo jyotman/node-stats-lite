@@ -1,18 +1,16 @@
 {
   "name": "node-stats-lite",
-  "version": "1.0.10",
-  "description": "Module for creating an api which provides information about the running node process",
+  "version": "2.0.0",
+  "description": "Get real time stats of a running Node.js process",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jyot",
+  "author": "Jyotman",
   "repository": {
     "type": "git",
     "url": "https://github.com/jyotman/node-stats-lite"
   },
   "license": "ISC",
-  "dependencies": {
-    "process-cpu-utilization": "^1.0.2"
-  }
+  "dependencies": {}
 }
