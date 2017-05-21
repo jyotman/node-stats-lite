@@ -1,20 +1,22 @@
 {
-    "name": "node-stats-lite",
-    "version": "2.0.1",
-    "description": "Get real time stats of a running Node.js process",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "Jyotman Singh",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/jyotman/node-stats-lite"
-    },
-    "license": "ISC",
-    "engines": {
-        "node": ">=7.6.0"
-    },
-    "os": ["!win32"],
-    "dependencies": {}
+  "name": "node-stats-lite",
+  "version": "2.0.2",
+  "description": "Get real time stats of a running Node.js process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jyotman Singh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jyotman/node-stats-lite"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "os": [
+    "!win32"
+  ],
+  "dependencies": {}
 }
