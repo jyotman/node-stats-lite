@@ -49,5 +49,5 @@ Sample response -
     }
 
 ### Requirements
-1. Node.js version > 7.6.0
+1. Node.js version >= 7.6.0
 2. Linux based system
