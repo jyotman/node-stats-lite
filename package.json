@@ -1,6 +1,6 @@
 {
   "name": "node-stats-lite",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Get real time stats of a running Node.js process",
   "main": "index.js",
   "scripts": {
