@@ -47,7 +47,7 @@ The stats Object(Method 2) or the API response(Method 1) provides the following 
 
 Sample response - 
 
-```js
+```json
 {
 	"version": "v7.9.0",
 	"service_name": "app.js",

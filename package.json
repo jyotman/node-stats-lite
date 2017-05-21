@@ -4,7 +4,7 @@
   "description": "Get real time stats of a running Node.js process",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "Jyotman Singh",
   "repository": {
@@ -18,5 +18,17 @@
   "os": [
     "!win32"
   ],
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^20.0.3"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverage": true,
+    "collectCoverageFrom": [
+      "**/*.{js}",
+      "!**/node_modules/**",
+      "!**/coverage/**"
+    ]
+  }
 }
