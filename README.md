@@ -1,5 +1,11 @@
 # Node Stats Lite
-[![NPM](https://nodei.co/npm/node-stats-lite.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node-stats-lite/)
+
+
+[![](https://img.shields.io/npm/v/node-stats-lite.svg)](https://www.npmjs.com/package/node-stats-lite)
+[![](https://img.shields.io/npm/dm/node-stats-lite.svg)](https://www.npmjs.com/package/node-stats-lite.svg)
+[![Build Status](https://travis-ci.org/jyotman/node-stats-lite.svg?branch=master)](https://travis-ci.org/jyotman/node-stats-lite)
+[![Known Vulnerabilities](https://snyk.io/test/npm/node-stats-lite/badge.svg)](https://snyk.io/test/npm/node-stats-lite)
+[![Dependency Status](https://david-dm.org/jyotman/node-stats-lite.svg)](https://david-dm.org/jyotman/node-stats-lite)
 
 ##### Get real time stats of a running Node.js process. Can be used for Node.js service monitoring.
 
