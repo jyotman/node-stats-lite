@@ -1,9 +1,10 @@
 # Node Stats Lite
 
 
-[![](https://img.shields.io/npm/v/node-stats-lite.svg)](https://www.npmjs.com/package/node-stats-lite)
-[![](https://img.shields.io/npm/dm/node-stats-lite.svg)](https://www.npmjs.com/package/node-stats-lite.svg)
+[![NPM Version](https://img.shields.io/npm/v/node-stats-lite.svg)](https://www.npmjs.com/package/node-stats-lite)
+[![NPM Downloads](https://img.shields.io/npm/dm/node-stats-lite.svg)](https://www.npmjs.com/package/node-stats-lite.svg)
 [![Build Status](https://travis-ci.org/jyotman/node-stats-lite.svg?branch=master)](https://travis-ci.org/jyotman/node-stats-lite)
+[![Coverage Status](https://coveralls.io/repos/github/jyotman/node-stats-lite/badge.svg?branch=master)](https://coveralls.io/github/jyotman/node-stats-lite?branch=master)
 [![Known Vulnerabilities](https://snyk.io/test/npm/node-stats-lite/badge.svg)](https://snyk.io/test/npm/node-stats-lite)
 [![Dependency Status](https://david-dm.org/jyotman/node-stats-lite.svg)](https://david-dm.org/jyotman/node-stats-lite)
 
